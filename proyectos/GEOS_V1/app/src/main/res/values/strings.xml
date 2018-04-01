@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GEOS</string>
+    <string name="app_name2">GEOS-BOLIVIA</string>
+    <string name="T2">COCHABAMBA</string>
+    <string name="sitio">SITIO</string>
+    <string name="mensaje">PARA LA RECEPCION DE NOTIFICACIONES LA APP DEBE CORRER EN 2DO PLANO</string>
+
+</resources>

@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "273332360416",
+    "firebase_url": "https://geosv1-40a72.firebaseio.com",
+    "project_id": "geosv1-40a72",
+    "storage_bucket": "geosv1-40a72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273332360416:android:62c4eb6a1086c840",
+        "android_client_info": {
+          "package_name": "org.geosbolivia.geos_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273332360416-uefku1offgfebrhci2i7mrv3gdj3o3d4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.geosbolivia.geos_v1",
+            "certificate_hash": "398325a1ec58fbab6c001e6536330e64af5e2055"
+          }
+        },
+        {
+          "client_id": "273332360416-f04al7q5unhare4tm9qp57nk852iknhe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCndK1juaThzSoUkjcpXdabAtIoTxeOL0Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273332360416-f04al7q5unhare4tm9qp57nk852iknhe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273332360416:android:e00b47f2aba37383",
+        "android_client_info": {
+          "package_name": "org.geosbolivia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273332360416-f04al7q5unhare4tm9qp57nk852iknhe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCndK1juaThzSoUkjcpXdabAtIoTxeOL0Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
